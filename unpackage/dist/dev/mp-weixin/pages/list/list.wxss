@@ -1,0 +1,111 @@
+
+.page{
+    width: 150rpx;
+    height: 150rpx;
+	border: 1rpx solid #f1f1f1;
+}
+.content{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	background-color: #f1f1f1;
+	height: 100%;
+}
+#place ._span:last-child{
+	color: #C0C0C0;
+}
+#type ._span:last-child{
+	color: #C0C0C0;
+}
+._i{
+	display: block;
+	width: 5rpx;
+	height: 5rpx;
+	background-color: #8F8F94;
+	border-radius: 50%;
+	margin: 10rpx;
+}
+textarea{
+	border: 1rpx solid #f1f1f1;
+	width: 650rpx;
+	height: 120rpx;
+	padding: 10rpx;
+}
+.card1{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: space-between;
+	        flex-direction: space-between;
+	-webkit-flex-wrap: wrap;
+	        flex-wrap: wrap;
+	width: 90%;
+	height: 700rpx;
+	background-color: rgba(255,255,255,1);
+	border-radius: 20rpx;
+	margin-top: 25rpx;
+	padding: 20rpx 20rpx 0;
+}
+.two{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+}
+.card2{
+	width: 90%;
+	height: 200rpx;
+	margin-top: 25rpx;
+	background-color: #ffffff;
+	border-radius: 20rpx;
+	padding: 20rpx 20rpx 0;
+}
+.name{
+	margin-top: 40rpx;
+}
+.phone{
+	margin-top: 40rpx;
+}
+.name ._span:last-child{
+	color: #C0C0C0;
+}
+.phone ._span:last-child{
+	color: #C0C0C0;
+}
+.pic{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+}
+.charge{
+	font-size: 30rpx;
+	color: red;
+	margin-left: 500rpx;
+	margin-top: 60rpx;
+}
+.btn{
+	margin-top: 30rpx;
+	width: 720rpx;
+	height: 90rpx;
+	background-color: #FFFFFF;
+}
+.submit{
+}
+
+

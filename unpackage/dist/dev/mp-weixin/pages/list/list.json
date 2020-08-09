@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "报修申请",
+  "usingComponents": {
+    "upload-img": "/components/amazarashi-uploadimg/uploadImg"
+  }
+}
